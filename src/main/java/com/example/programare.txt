@@ -1,0 +1,5 @@
+1,5,sandie,orto,45,12,12-2-2023,dureri dentare
+2,3,etere,etori,32,13,21-2-2023,scoatem masea
+3,5,sandie,orto,45,2,12-2-2023,pasme dentare
+4,3,etere,etori,32,7,12-3-2023,dinti sparti
+5,5,sandie,orto,45,12,12-4-2023,curatare

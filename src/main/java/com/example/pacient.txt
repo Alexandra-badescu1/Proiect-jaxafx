@@ -1,0 +1,5 @@
+1,cristi,radu,15
+4,andra,stefi,19
+5,sandie,orto,45
+9,andra,stefi,19
+6,andrala,stefina,20
